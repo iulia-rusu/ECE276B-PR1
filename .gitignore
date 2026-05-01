@@ -6,6 +6,11 @@
 *.out
 *.fls
 *.fdb_latexmk
+*.bib
+*.tex
+
+README.md
+*.txt
 
 # IEEEtran template files
 IEEEtran.bst
@@ -19,3 +24,4 @@ __pycache__/
 
 # Large env files
 starter_code/envs/random_envs/
+starter_code/envs/known_envs/
