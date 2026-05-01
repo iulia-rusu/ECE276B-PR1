@@ -1,0 +1,21 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.synctex.gz
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+
+# IEEEtran template files
+IEEEtran.bst
+IEEEtran.cls
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large env files
+starter_code/envs/random_envs/
